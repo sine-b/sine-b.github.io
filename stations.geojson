@@ -399,7 +399,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Van Dorn St",
-                "marker-symbol": "music",
+                "marker-symbol": "rocket",
                 "title": "Van Dorn St",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=94",
                 "lines": [
