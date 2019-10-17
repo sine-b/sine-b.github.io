@@ -1,0 +1,1848 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "34.419086",
+        "131.81159"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "46.146524",
+        "125.593014"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-49.706133",
+        "-139.910696"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "58.26854",
+        "61.877804"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "81.818202",
+        "-132.560968"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "71.57414",
+        "98.595976"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-12.204225",
+        "20.927599"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-26.140254",
+        "140.393086"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-13.339198",
+        "170.38942"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "50.795596",
+        "-64.33694"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-48.002536",
+        "43.503858"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-21.955227",
+        "159.446358"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-12.998389",
+        "-104.891782"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "39.285372",
+        "80.306862"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "5.582178",
+        "153.161266"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-20.329559",
+        "22.156266"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-29.302792",
+        "106.856523"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "30.614301",
+        "-34.592157"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-5.013325",
+        "-47.617012"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "21.919638",
+        "49.130656"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-5.359706",
+        "-60.228032"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "70.977452",
+        "29.876931"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-65.004685",
+        "-112.612332"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "66.882863",
+        "8.75432"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "10.7942",
+        "-125.549544"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-87.127215",
+        "-63.355602"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "46.691377",
+        "114.267222"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "11.728126",
+        "-95.825202"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "80.820406",
+        "-95.330008"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-48.983786",
+        "58.040226"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "60.012368",
+        "-39.716838"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "51.980563",
+        "169.10723"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-36.498971",
+        "-161.804576"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-19.564581",
+        "64.057065"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-65.421319",
+        "-34.906593"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-59.426226",
+        "-100.692419"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "76.71987",
+        "15.138224"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-57.120336",
+        "85.740106"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-14.50107",
+        "-166.899792"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "81.30838",
+        "75.406816"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-52.825758",
+        "-58.038072"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "84.580387",
+        "-21.746022"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-22.041321",
+        "-7.793535"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-71.461074",
+        "-90.252998"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "47.463392",
+        "15.096422"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "15.586926",
+        "-150.404985"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "20.62115",
+        "52.917649"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "53.537708",
+        "172.80852"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-40.83536",
+        "-127.539094"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "67.314005",
+        "-179.351563"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-38.154394",
+        "23.774769"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "42.277728",
+        "-57.22416"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "45.155986",
+        "-176.363783"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.67.8.188",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-55.994605",
+        "-7.133099"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-52.908048",
+        "140.135887"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "48.690095",
+        "-95.925981"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "20.27076",
+        "-121.683462"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-28.334125",
+        "-115.290872"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-33.899695",
+        "30.077177"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "67.129295",
+        "-93.441734"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "70.463686",
+        "-169.18235"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "53.613349",
+        "17.382181"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-11.582454",
+        "-61.948093"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-41.977213",
+        "125.870079"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "89.764604",
+        "132.279105"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-72.697723",
+        "168.339108"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-21.517291",
+        "-149.728763"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-3.988354",
+        "-38.737464"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "37.285315",
+        "47.025576"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "35.487572",
+        "-25.922604"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "38.405265",
+        "-60.393837"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "34.62593",
+        "87.102985"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-65.428764",
+        "18.317539"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-56.977836",
+        "-80.324299"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-89.53946",
+        "-101.021656"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "77.061051",
+        "62.36038"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "51.448697",
+        "19.463282"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "3.960636",
+        "144.95969"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-81.008754",
+        "-167.504918"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-65.524542",
+        "137.940548"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "7.975233",
+        "12.118382"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "52.319561",
+        "26.439691"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "12.670456",
+        "-111.68301"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "73.01489",
+        "-54.722605"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "56.628156",
+        "-59.066892"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "51.185264",
+        "116.928037"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-87.70341",
+        "-163.579507"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "70.826216",
+        "131.190494"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-78.066095",
+        "176.559636"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "17.54216",
+        "-29.258384"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "WARN",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "82.158372",
+        "21.171139"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoPerson.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-21.470193",
+        "-87.91794"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoGroundStation.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "12.124612",
+        "-32.585037"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "SKYNET",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "green",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "46.317022",
+        "98.582094"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-76.414452",
+        "51.447196"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwv.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "red",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-38.133613",
+        "29.263757"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoHmmwvProfile.png",
+      "mission": "CM_Remote",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "ERROR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  },
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "11.894827",
+        "-90.220878"
+      ]
+    },
+    "type": "Feature",
+    "properties": {
+      "type": "icoBldg.png",
+      "mission": "CM_Internal",
+      "link": "link_PH",
+      "name": "10.147.8.133",
+      "alarmName": "CLEAR",
+      "alarmColor": "yellow",
+      "icon": "icon_PH"
+    }
+  }
+    ]
+}
